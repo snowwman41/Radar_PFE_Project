@@ -1,0 +1,4 @@
+for bandpass and detection filters which work in fast time, sampling frequency is 17.2 GHz
+so to convert the cut off frequency from rad/sample we do rad_value*17.2 GHz/(2*pi)
+
+same for motion filter with sampling frequency of 40Hz, cut_off frequency= rad_value*40Hz/(2*pi)
