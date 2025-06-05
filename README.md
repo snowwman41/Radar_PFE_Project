@@ -31,10 +31,10 @@ The project consists of two main applications, both running on the NVIDIA Orin e
 
 ## Application Interface
 
-The system features an intuitive interface that allows real-time monitoring and control of the obstacle detection system:
+The system features interface that allows control of the radar and camera and data acquisition and saving of raw and processed data and images to be further post processed after:
 
 ![Application Interface](assets/interface.png)
-*Main application interface showing system controls and status*
+*Main application interface
 
 ---
 
