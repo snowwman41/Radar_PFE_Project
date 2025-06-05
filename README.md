@@ -29,6 +29,23 @@ The project consists of two main applications, both running on the NVIDIA Orin e
 2. **Prototype Obstacle Detection App**  
    Performs real-time obstacle detection using radar data enhanced by models trained with camera inputs.
 
+## Application Interface
+
+The system features an intuitive interface that allows real-time monitoring and control of the obstacle detection system:
+
+![Application Interface](assets/interface.png)
+*Main application interface showing system controls and status*
+
+---
+
+## Real-time Detection Visualization
+
+The application provides comprehensive real-time visualization of the detection algorithms, including simultaneous display of radar data processing and camera feeds:
+
+![Real-time Detection Visualization](assets/Figure_1.png)
+*Real-time plot showing obstacle detection algorithm results, Doppler processing, and raw radar data alongside camera feed*
+
+---
 
 ## Getting Started
 
